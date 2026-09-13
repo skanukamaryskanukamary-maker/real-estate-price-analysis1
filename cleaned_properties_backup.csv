@@ -1,0 +1,12 @@
+location,property_type,bhk,area_sqft,bathrooms,property_age,price_lakhs
+Hyderabad,Apartment,2,1200,2,5,65
+Hyderabad,Apartment,3,1650,3,8,92
+Hyderabad,Villa,3,2200,3,4,145
+Bangalore,Apartment,2,1150,2,5,72
+Bangalore,Apartment,3,1600,3,7,98
+Chennai,Apartment,2,1100,2,7,58
+Chennai,Apartment,3,1500,3,5,78
+Pune,Apartment,2,1050,2,5,62
+Pune,Apartment,3,1550,3,4,88
+Mumbai,Apartment,2,950,2,6,125
+Mumbai,Apartment,3,1450,3,5,185
